@@ -38,7 +38,7 @@ build==0.8.0
     # via pip-tools
 cachetools==5.2.0
     # via premailer
-certifi==2022.9.24
+certifi==2026.10.18
     # via
     #   requests
     #   sentry-sdk
